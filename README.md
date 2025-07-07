@@ -35,5 +35,6 @@ I once built a full AI pipeline overnight because I thought “sleep is overrate
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+![Quote](https://img.shields.io/badge/quote-Code_is_like_humor,_when_you_have_to_explain_it,_it's_bad.-brightgreen?style=for-the-badge&logo=github)
 
 Thanks for stopping by! 🚀  
