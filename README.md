@@ -35,4 +35,8 @@ I once built a full AI pipeline overnight because I thought “sleep is overrate
 ---
 ![Quote](https://img.shields.io/badge/quote-Code_is_like_humor,_when_you_have_to_explain_it,_it's_bad.-brightgreen?style=for-the-badge&logo=github)
 
+
+
+[![An image of @ymirbadam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ymirbadam)](https://holopin.io/@ymirbadam)
+
 Thanks for stopping by! 🚀  
